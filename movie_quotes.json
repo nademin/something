@@ -1,0 +1,802 @@
+[
+  {
+    "author": "Darth Vader",
+    "content": "I am your father."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "May the Force be with you."
+  },
+  {
+    "author": "Yoda",
+    "content": "Do or do not. There is no try."
+  },
+  {
+    "author": "Han Solo",
+    "content": "Never tell me the odds."
+  },
+  {
+    "author": "Princess Leia",
+    "content": "Help me, Obi-Wan Kenobi."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I’ll never turn to the dark side."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "The Force is strong with this one."
+  },
+  {
+    "author": "Yoda",
+    "content": "Fear is the path to the dark side."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "You were the chosen one!"
+  },
+  {
+    "author": "Darth Sidious",
+    "content": "Unlimited power!"
+  },
+  {
+    "author": "Han Solo",
+    "content": "I’ve got a bad feeling about this."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I am a Jedi, like my father before me."
+  },
+  {
+    "author": "Princess Leia",
+    "content": "I love you."
+  },
+  {
+    "author": "Han Solo",
+    "content": "I know."
+  },
+  {
+    "author": "Qui-Gon Jinn",
+    "content": "Your focus determines your reality."
+  },
+  {
+    "author": "Mace Windu",
+    "content": "This party’s over."
+  },
+  {
+    "author": "Padmé Amidala",
+    "content": "So this is how liberty dies."
+  },
+  {
+    "author": "Yoda",
+    "content": "Truly wonderful the mind of a child is."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "Hello there."
+  },
+  {
+    "author": "General Grievous",
+    "content": "General Kenobi."
+  },
+  {
+    "author": "Darth Maul",
+    "content": "At last we will reveal ourselves to the Jedi."
+  },
+  {
+    "author": "Lando Calrissian",
+    "content": "This deal is getting worse all the time."
+  },
+  {
+    "author": "Admiral Ackbar",
+    "content": "It’s a trap!"
+  },
+  {
+    "author": "Emperor Palpatine",
+    "content": "I am the Senate."
+  },
+  {
+    "author": "Emperor Palpatine",
+    "content": "Do it."
+  },
+  {
+    "author": "Anakin Skywalker",
+    "content": "You underestimate my power!"
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "Only a Sith deals in absolutes."
+  },
+  {
+    "author": "Yoda",
+    "content": "Luminous beings are we."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "Amazing. Every word of what you just said was wrong."
+  },
+  {
+    "author": "Kylo Ren",
+    "content": "Let the past die."
+  },
+  {
+    "author": "Rey",
+    "content": "I’m all the Jedi."
+  },
+  {
+    "author": "Palpatine",
+    "content": "I am all the Sith."
+  },
+  {
+    "author": "Finn",
+    "content": "Rebel scum."
+  },
+  {
+    "author": "Han Solo",
+    "content": "Chewie, we’re home."
+  },
+  {
+    "author": "Chewbacca",
+    "content": "*roars*."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "Impressive. Most impressive."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "These aren’t the droids you’re looking for."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I have a very bad feeling about this."
+  },
+  {
+    "author": "Yoda",
+    "content": "When gone am I, the last of the Jedi will you be."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "Be careful not to choke on your aspirations."
+  },
+  {
+    "author": "Neo",
+    "content": "I know kung fu."
+  },
+  {
+    "author": "Morpheus",
+    "content": "What is real?"
+  },
+  {
+    "author": "Morpheus",
+    "content": "Free your mind."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Mr. Anderson."
+  },
+  {
+    "author": "Trinity",
+    "content": "Dodge this."
+  },
+  {
+    "author": "Neo",
+    "content": "The problem is choice."
+  },
+  {
+    "author": "Morpheus",
+    "content": "Unfortunately, no one can be told what the Matrix is."
+  },
+  {
+    "author": "Tank",
+    "content": "He’s gonna pop!"
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Humans are a disease."
+  },
+  {
+    "author": "Neo",
+    "content": "There is no spoon."
+  },
+  {
+    "author": "Morpheus",
+    "content": "Stop trying to hit me and hit me!"
+  },
+  {
+    "author": "Agent Smith",
+    "content": "You hear that, Mr. Anderson?"
+  },
+  {
+    "author": "Trinity",
+    "content": "Touch me and that hand will never touch anything again."
+  },
+  {
+    "author": "Neo",
+    "content": "I can only show you the door."
+  },
+  {
+    "author": "Morpheus",
+    "content": "Fate, it seems, is not without a sense of irony."
+  },
+  {
+    "author": "Neo",
+    "content": "I’m going to show them a world without you."
+  },
+  {
+    "author": "Oracle",
+    "content": "You already know what I’m going to tell you."
+  },
+  {
+    "author": "The Architect",
+    "content": "Hope is the quintessential human delusion."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "It’s the smell!"
+  },
+  {
+    "author": "Neo",
+    "content": "Guns. Lots of guns."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "There is no gene for the human spirit."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "I got the better end of the deal."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "For someone who was never meant for this world, I must confess I'm suddenly having a hard time leaving it."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "I was never more perfect than when I was with you."
+  },
+  {
+    "author": "Anton Freeman",
+    "content": "You want to know how I did it? This is how I did it."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "I never saved anything for the swim back."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "Maybe I'm not the man you think I am."
+  },
+  {
+    "author": "Dr. Lamar",
+    "content": "They’ve got you looking so hard for any flaw that after a while that's all you see."
+  },
+  {
+    "author": "Irene Cassini",
+    "content": "You have a heart of gold."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "My real resume was in my cells."
+  },
+  {
+    "author": "Gandalf",
+    "content": "You shall not pass!"
+  },
+  {
+    "author": "Frodo",
+    "content": "I will take the Ring."
+  },
+  {
+    "author": "Aragorn",
+    "content": "For Frodo."
+  },
+  {
+    "author": "Boromir",
+    "content": "One does not simply walk into Mordor."
+  },
+  {
+    "author": "Samwise Gamgee",
+    "content": "I can’t carry it for you, but I can carry you."
+  },
+  {
+    "author": "Gandalf",
+    "content": "All we have to decide is what to do with the time that is given to us."
+  },
+  {
+    "author": "Gollum",
+    "content": "My precious."
+  },
+  {
+    "author": "Legolas",
+    "content": "A shadow and a threat has been growing in my mind."
+  },
+  {
+    "author": "Gimli",
+    "content": "Nobody tosses a dwarf!"
+  },
+  {
+    "author": "Aragorn",
+    "content": "A day may come when the courage of men fails… but it is not this day."
+  },
+  {
+    "author": "Théoden",
+    "content": "So much death."
+  },
+  {
+    "author": "Éowyn",
+    "content": "I am no man!"
+  },
+  {
+    "author": "Frodo",
+    "content": "I wish the Ring had never come to me."
+  },
+  {
+    "author": "Gandalf",
+    "content": "So do all who live to see such times."
+  },
+  {
+    "author": "Sam",
+    "content": "There’s some good in this world, and it’s worth fighting for."
+  },
+  {
+    "author": "Merry",
+    "content": "We’re going with you, Frodo."
+  },
+  {
+    "author": "Pippin",
+    "content": "What about second breakfast?"
+  },
+  {
+    "author": "Boromir",
+    "content": "They have a cave troll."
+  },
+  {
+    "author": "Saruman",
+    "content": "Against the power of Mordor there can be no victory."
+  },
+  {
+    "author": "Smeagol",
+    "content": "They don’t see us. They don’t know."
+  },
+  {
+    "author": "Arwen",
+    "content": "I choose a mortal life."
+  },
+  {
+    "author": "Elrond",
+    "content": "I was there, Gandalf."
+  },
+  {
+    "author": "Faramir",
+    "content": "I would not take this thing if it lay by the roadside."
+  },
+  {
+    "author": "Gollum",
+    "content": "Sneaky little hobbitses."
+  },
+  {
+    "author": "Grima Wormtongue",
+    "content": "You have no power here!"
+  },
+  {
+    "author": "Aragorn",
+    "content": "I do not fear death."
+  },
+  {
+    "author": "Gandalf",
+    "content": "Fly, you fools!"
+  },
+  {
+    "author": "Samwise",
+    "content": "Potatoes!"
+  },
+  {
+    "author": "Treebeard",
+    "content": "I am not going to bandy crooked words with a wizard."
+  },
+  {
+    "author": "Sauron",
+    "content": "You cannot hide."
+  },
+  {
+    "author": "Frodo",
+    "content": "I’m glad to be with you, Samwise Gamgee."
+  },
+  {
+    "author": "Gandalf",
+    "content": "The board is set."
+  },
+  {
+    "author": "Pippin",
+    "content": "What about elevenses?"
+  },
+  {
+    "author": "Merry",
+    "content": "I think we might have made a mistake leaving the Shire."
+  },
+  {
+    "author": "Gimli",
+    "content": "Certainty of death. Small chance of success."
+  },
+  {
+    "author": "Legolas",
+    "content": "They’re taking the hobbits to Isengard!"
+  },
+  {
+    "author": "Frodo",
+    "content": "The Ring is mine."
+  },
+  {
+    "author": "Aragorn",
+    "content": "I summon you to fulfill your oath."
+  },
+  {
+    "author": "Éomer",
+    "content": "You would die before your stroke fell!"
+  },
+  {
+    "author": "Galadriel",
+    "content": "Even the smallest person can change the course of the future."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Why is the rum gone?"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Savvy?"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "I’ve got a jar of dirt!"
+  },
+  {
+    "author": "Barbossa",
+    "content": "You best start believing in ghost stories."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow."
+  },
+  {
+    "author": "Will Turner",
+    "content": "This is either madness or brilliance."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Usually it’s both."
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "You like pain?"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Try wearing a corset."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "Do you fear death?"
+  },
+  {
+    "author": "Barbossa",
+    "content": "The code is more what you’d call guidelines."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Bring me that horizon."
+  },
+  {
+    "author": "Tia Dalma",
+    "content": "A touch of destiny."
+  },
+  {
+    "author": "Gibbs",
+    "content": "It's bad luck to wake a man when he's sleeping."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Not all treasure is silver and gold."
+  },
+  {
+    "author": "Will Turner",
+    "content": "I practice three hours a day."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You need to find yourself a girl, mate."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You’re off the edge of the map."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "My vessel. My crew."
+  },
+  {
+    "author": "Norrington",
+    "content": "You are without doubt the worst pirate I’ve ever heard of."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "But you have heard of me."
+  },
+  {
+    "author": "Bootstrap Bill",
+    "content": "The sea is my fate."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "Life is cruel. Why should the afterlife be any different?"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Close your eyes and pretend it’s all a bad dream."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You’re in my world now."
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "You lied to me by telling the truth."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "If you were waiting for the opportune moment… that was it."
+  },
+  {
+    "author": "Will Turner",
+    "content": "Keep a sharp eye."
+  },
+  {
+    "author": "Gibbs",
+    "content": "Take what you can, give nothing back."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "I’m dishonest, and a dishonest man you can always trust."
+  },
+  {
+    "author": "Anakin Skywalker",
+    "content": "I don’t like sand."
+  },
+  {
+    "author": "Yoda",
+    "content": "Truly how wonderful the mind of a child is."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "I find your lack of faith disturbing."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I won’t fail you."
+  },
+  {
+    "author": "Padmé",
+    "content": "You’re breaking my heart."
+  },
+  {
+    "author": "Obi-Wan",
+    "content": "So uncivilized."
+  },
+  {
+    "author": "Han Solo",
+    "content": "That’s not how the Force works!"
+  },
+  {
+    "author": "Rey",
+    "content": "The belonging you seek is not behind you."
+  },
+  {
+    "author": "Snoke",
+    "content": "There has been an awakening."
+  },
+  {
+    "author": "General Hux",
+    "content": "Today is the end of the Republic."
+  },
+  {
+    "author": "Poe Dameron",
+    "content": "We’re gonna do this."
+  },
+  {
+    "author": "Finn",
+    "content": "I need a pilot."
+  },
+  {
+    "author": "Kylo Ren",
+    "content": "I will finish what you started."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "This will be a day long remembered."
+  },
+  {
+    "author": "Yoda",
+    "content": "Wars not make one great."
+  },
+  {
+    "author": "Lando",
+    "content": "You truly belong with us among the clouds."
+  },
+  {
+    "author": "Bail Organa",
+    "content": "I will send for the Jedi."
+  },
+  {
+    "author": "Qui-Gon",
+    "content": "The ability to speak does not make you intelligent."
+  },
+  {
+    "author": "Yoda",
+    "content": "Much to learn you still have."
+  },
+  {
+    "author": "Palpatine",
+    "content": "The dark side of the Force is a pathway to many abilities."
+  },
+  {
+    "author": "Morpheus",
+    "content": "I believe he is the One."
+  },
+  {
+    "author": "Neo",
+    "content": "I choose the Matrix."
+  },
+  {
+    "author": "Trinity",
+    "content": "I’m not afraid anymore."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Purpose."
+  },
+  {
+    "author": "Neo",
+    "content": "Everything begins with choice."
+  },
+  {
+    "author": "The Oracle",
+    "content": "Candy?"
+  },
+  {
+    "author": "Morpheus",
+    "content": "What happened happened and could not have happened any other way."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "It is inevitable."
+  },
+  {
+    "author": "Neo",
+    "content": "I’m going to kill you."
+  },
+  {
+    "author": "Smith",
+    "content": "You can’t win."
+  },
+  {
+    "author": "Gandalf",
+    "content": "I will not say do not weep."
+  },
+  {
+    "author": "Frodo",
+    "content": "Go back, Sam!"
+  },
+  {
+    "author": "Sam",
+    "content": "I made a promise!"
+  },
+  {
+    "author": "Aragorn",
+    "content": "I would have gone with you to the end."
+  },
+  {
+    "author": "Legolas",
+    "content": "A red sun rises."
+  },
+  {
+    "author": "Gimli",
+    "content": "I thought I’d die fighting side by side with an elf."
+  },
+  {
+    "author": "Legolas",
+    "content": "How about side by side with a friend?"
+  },
+  {
+    "author": "Gimli",
+    "content": "Aye. I could do that."
+  },
+  {
+    "author": "Faramir",
+    "content": "The hearts of men are easily corrupted."
+  },
+  {
+    "author": "Galadriel",
+    "content": "The quest stands upon the edge of a knife."
+  },
+  {
+    "author": "Frodo",
+    "content": "The Ring is trying to get back to its master."
+  },
+  {
+    "author": "Sam",
+    "content": "Let him go, you filth!"
+  },
+  {
+    "author": "Gollum",
+    "content": "We swears to serve the master of the precious."
+  },
+  {
+    "author": "Merry",
+    "content": "Rohan had need of you."
+  },
+  {
+    "author": "Pippin",
+    "content": "The closer we are to danger, the farther we are from harm!"
+  },
+  {
+    "author": "Théoden",
+    "content": "Forth Eorlingas!"
+  },
+  {
+    "author": "Éowyn",
+    "content": "Courage, Merry."
+  },
+  {
+    "author": "Aragorn",
+    "content": "Ride out with me."
+  },
+  {
+    "author": "Gandalf",
+    "content": "Look to my coming at first light."
+  },
+  {
+    "author": "Sauron",
+    "content": "I see you."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Did everyone see that?"
+  },
+  {
+    "author": "Barbossa",
+    "content": "You don’t know what this is, do you?"
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "We have to fight."
+  },
+  {
+    "author": "Will Turner",
+    "content": "I made my choice."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "I can’t be summoned like some mongrel pup!"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You’ve stolen me and I’m here to take myself back."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You may not survive to pass this way again."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You lied to me by telling the truth."
+  },
+  {
+    "author": "Gibbs",
+    "content": "Bad luck to kill a seabird."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Now… bring me that horizon."
+  }
+]
