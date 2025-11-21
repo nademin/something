@@ -332,10 +332,6 @@
     "content": "You are without doubt the worst pirate I’ve ever heard of."
   },
   {
-    "author": "Luthen Rael",
-    "content": "I Burn My Life to Make a Sunrise That I Know I'll Never See."
-  },
-  {
     "author": "Jack Sparrow",
     "content": "Savvy?"
   },
@@ -946,5 +942,9 @@
   {
     "author": "Obi-Wan",
     "content": "So uncivilized."
+  },
+  {
+    "author": "Luthen Rael",
+    "content": "I Burn My Life to Make a Sunrise That I Know I'll Never See."
   }
 ]
