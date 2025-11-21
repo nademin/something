@@ -1,0 +1,950 @@
+[
+  {
+    "author": "Trinity",
+    "content": "Dodge this."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "It is inevitable."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "I never saved anything for the swim back."
+  },
+  {
+    "author": "Qui-Gon",
+    "content": "The ability to speak does not make you intelligent."
+  },
+  {
+    "author": "Legolas",
+    "content": "They’re taking the hobbits to Isengard!"
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "The soft kitty, warm kitty, little ball of fur... happy kitty, sleepy kitty, purr, purr, purr."
+  },
+  {
+    "author": "Neo",
+    "content": "I’m going to show them a world without you."
+  },
+  {
+    "author": "Sauron",
+    "content": "You cannot hide."
+  },
+  {
+    "author": "Neo",
+    "content": "The problem is choice."
+  },
+  {
+    "author": "Samwise",
+    "content": "Po-ta-toes!"
+  },
+  {
+    "author": "Gibbs",
+    "content": "Bad luck to kill a seabird."
+  },
+  {
+    "author": "Admiral Ackbar",
+    "content": "It’s a trap!"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Now… bring me that horizon."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "Only a Sith deals in absolutes."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You’ve stolen me and I’m here to take myself back."
+  },
+  {
+    "author": "Kylo Ren",
+    "content": "I will finish what you started."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You’re in my world now."
+  },
+  {
+    "author": "Rey",
+    "content": "The belonging you seek is not behind you."
+  },
+  {
+    "author": "Maarva Andor",
+    "content": "That's Just Love. Nothing You Can Do About That."
+  },
+  {
+    "author": "Grima Wormtongue",
+    "content": "You have no power here!"
+  },
+  {
+    "author": "Gibbs",
+    "content": "Take what you can, give nothing back."
+  },
+  {
+    "author": "Éowyn",
+    "content": "Courage, Merry."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Purpose."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "Be careful not to choke on your aspirations."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "If you were waiting for the opportune moment… that was it."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "Do you fear death?"
+  },
+  {
+    "author": "Yoda",
+    "content": "Truly wonderful the mind of a child is."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I am a Jedi, like my father before me."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Did everyone see that?"
+  },
+  {
+    "author": "Frodo",
+    "content": "I’m glad to be with you, Samwise Gamgee."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "This is the day you will always remember as the day you almost caught Captain Jack Sparrow."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Not all treasure is silver and gold."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "You hear that, Mr. Anderson?"
+  },
+  {
+    "author": "Penny",
+    "content": "This is my boyfriend, Leonard, and these are his friends, other Leonard and Raj."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You don’t know what this is, do you?"
+  },
+  {
+    "author": "Qui-Gon Jinn",
+    "content": "Your focus determines your reality."
+  },
+  {
+    "author": "Padmé",
+    "content": "You’re breaking my heart."
+  },
+  {
+    "author": "Gandalf",
+    "content": "All we have to decide is what to do with the time that is given to us."
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "We have to fight."
+  },
+  {
+    "author": "Frodo",
+    "content": "Go back, Sam!"
+  },
+  {
+    "author": "Morpheus",
+    "content": "Free your mind."
+  },
+  {
+    "author": "Karis Nemik",
+    "content": "One single thing will break the siege. Remember this. Try."
+  },
+  {
+    "author": "Emperor Palpatine",
+    "content": "I am the Senate."
+  },
+  {
+    "author": "Gandalf",
+    "content": "You shall not pass!"
+  },
+  {
+    "author": "Elrond",
+    "content": "I was there, Gandalf."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "These aren’t the droids you’re looking for."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You need to find yourself a girl, mate."
+  },
+  {
+    "author": "Gandalf",
+    "content": "Fly, you fools!"
+  },
+  {
+    "author": "Howard Wolowitz",
+    "content": "I'm an astronaut."
+  },
+  {
+    "author": "Princess Leia",
+    "content": "I love you."
+  },
+  {
+    "author": "Han Solo",
+    "content": "Chewie, we’re home."
+  },
+  {
+    "author": "Aragorn",
+    "content": "A day may come when the courage of men fails… but it is not this day."
+  },
+  {
+    "author": "Frodo",
+    "content": "I wish the Ring had never come to me."
+  },
+  {
+    "author": "Gimli",
+    "content": "Aye. I could do that."
+  },
+  {
+    "author": "Bootstrap Bill",
+    "content": "The sea is my fate."
+  },
+  {
+    "author": "Oracle",
+    "content": "You already know what I’m going to tell you."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "Bazinga!"
+  },
+  {
+    "author": "Galadriel",
+    "content": "Even the smallest person can change the course of the future."
+  },
+  {
+    "author": "Yoda",
+    "content": "Fear is the path to the dark side."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "There is no gene for the human spirit."
+  },
+  {
+    "author": "Saruman",
+    "content": "Against the power of Mordor there can be no victory."
+  },
+  {
+    "author": "Legolas",
+    "content": "A red sun rises."
+  },
+  {
+    "author": "Mon Mothma",
+    "content": "The Death of Truth Is the Ultimate Victory of Evil."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "Amazing. Every word of what you just said was wrong."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "Hello there."
+  },
+  {
+    "author": "Yoda",
+    "content": "When gone am I, the last of the Jedi will you be."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "Life is cruel. Why should the afterlife be any different?"
+  },
+  {
+    "author": "Han Solo",
+    "content": "Never tell me the odds."
+  },
+  {
+    "author": "Howard Wolowitz",
+    "content": "It's a funny story..."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "I'm not crazy, my mother had me tested."
+  },
+  {
+    "author": "Trinity",
+    "content": "I’m not afraid anymore."
+  },
+  {
+    "author": "Treebeard",
+    "content": "I am not going to bandy crooked words with a wizard."
+  },
+  {
+    "author": "Neo",
+    "content": "I choose the Matrix."
+  },
+  {
+    "author": "Morpheus",
+    "content": "Stop trying to hit me and hit me!"
+  },
+  {
+    "author": "Han Solo",
+    "content": "I’ve got a bad feeling about this."
+  },
+  {
+    "author": "Gibbs",
+    "content": "It's bad luck to wake a man when he's sleeping."
+  },
+  {
+    "author": "Neo",
+    "content": "I know kung fu."
+  },
+  {
+    "author": "Frodo",
+    "content": "The Ring is trying to get back to its master."
+  },
+  {
+    "author": "Bernadette Rostenkowski",
+    "content": "I know how to get blood out of a wallet."
+  },
+  {
+    "author": "Boromir",
+    "content": "They have a cave troll."
+  },
+  {
+    "author": "Gandalf",
+    "content": "Look to my coming at first light."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "Coitus? So you're saying we should have coitus."
+  },
+  {
+    "author": "Norrington",
+    "content": "You are without doubt the worst pirate I’ve ever heard of."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Savvy?"
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Humans are a disease."
+  },
+  {
+    "author": "Sam",
+    "content": "Let him go, you filth!"
+  },
+  {
+    "author": "Kylo Ren",
+    "content": "Let the past die."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "But you have heard of me."
+  },
+  {
+    "author": "Darth Maul",
+    "content": "At last we will reveal ourselves to the Jedi."
+  },
+  {
+    "author": "Darth Sidious",
+    "content": "Unlimited power!"
+  },
+  {
+    "author": "Finn",
+    "content": "I need a pilot."
+  },
+  {
+    "author": "Merry",
+    "content": "We’re going with you, Frodo."
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "My real resume was in my cells."
+  },
+  {
+    "author": "Morpheus",
+    "content": "Unfortunately, no one can be told what the Matrix is."
+  },
+  {
+    "author": "Leonard Hofstadter",
+    "content": "You're the one who wanted to be roommates with a physicist. You can't have it both ways."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "Maybe I'm not the man you think I am."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "You lied to me by telling the truth."
+  },
+  {
+    "author": "Neo",
+    "content": "There is no spoon."
+  },
+  {
+    "author": "Lando Calrissian",
+    "content": "This deal is getting worse all the time."
+  },
+  {
+    "author": "Gimli",
+    "content": "I thought I’d die fighting side by side with an elf."
+  },
+  {
+    "author": "Raj Koothrappali",
+    "content": "I'm not saying it was aliens... but it was aliens."
+  },
+  {
+    "author": "Davy Jones",
+    "content": "I can’t be summoned like some mongrel pup!"
+  },
+  {
+    "author": "Maarva Andor",
+    "content": "The Empire Is a Disease That Thrives in Darkness…"
+  },
+  {
+    "author": "Faramir",
+    "content": "The hearts of men are easily corrupted."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Why is the rum gone?"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Try wearing a corset."
+  },
+  {
+    "author": "Merry",
+    "content": "I think we might have made a mistake leaving the Shire."
+  },
+  {
+    "author": "Raj Koothrappali",
+    "content": "It's very simple. When a man loves a woman... he becomes a pathetic, sniveling shell of a man."
+  },
+  {
+    "author": "Morpheus",
+    "content": "What happened happened and could not have happened any other way."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I’ll never turn to the dark side."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "I’ve got a jar of dirt!"
+  },
+  {
+    "author": "Vincent Freeman",
+    "content": "For someone who was never meant for this world, I must confess I'm suddenly having a hard time leaving it."
+  },
+  {
+    "author": "Aragorn",
+    "content": "I summon you to fulfill your oath."
+  },
+  {
+    "author": "Morpheus",
+    "content": "I believe he is the One."
+  },
+  {
+    "author": "Théoden",
+    "content": "So much death."
+  },
+  {
+    "author": "Sauron",
+    "content": "I see you."
+  },
+  {
+    "author": "Gimli",
+    "content": "Nobody tosses a dwarf!"
+  },
+  {
+    "author": "Kino Loy",
+    "content": "…That Ends Today! There Is One Way Out."
+  },
+  {
+    "author": "Aragorn",
+    "content": "For Frodo."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "I got the better end of the deal."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "I find your lack of faith disturbing."
+  },
+  {
+    "author": "Yoda",
+    "content": "Truly how wonderful the mind of a child is."
+  },
+  {
+    "author": "Pippin",
+    "content": "What about second breakfast?"
+  },
+  {
+    "author": "Gandalf",
+    "content": "The board is set."
+  },
+  {
+    "author": "Samwise Gamgee",
+    "content": "I can’t carry it for you, but I can carry you."
+  },
+  {
+    "author": "General Grievous",
+    "content": "General Kenobi."
+  },
+  {
+    "author": "The Oracle",
+    "content": "Candy?"
+  },
+  {
+    "author": "Anton Freeman",
+    "content": "You want to know how I did it? This is how I did it."
+  },
+  {
+    "author": "Penny",
+    "content": "You know, for a genius, you are really, really stupid."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You best start believing in ghost stories."
+  },
+  {
+    "author": "Neo",
+    "content": "Everything begins with choice."
+  },
+  {
+    "author": "Smith",
+    "content": "You can’t win."
+  },
+  {
+    "author": "Raj Koothrappali",
+    "content": "I have a velvety smooth voice that makes ladies' clothes fall off."
+  },
+  {
+    "author": "Gimli",
+    "content": "Certainty of death. Small chance of success."
+  },
+  {
+    "author": "Tia Dalma",
+    "content": "A touch of destiny."
+  },
+  {
+    "author": "General Hux",
+    "content": "Today is the end of the Republic."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors."
+  },
+  {
+    "author": "Snoke",
+    "content": "There has been an awakening."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "You're living in a universe of fools!"
+  },
+  {
+    "author": "Princess Leia",
+    "content": "Help me, Obi-Wan Kenobi, you're my only hope."
+  },
+  {
+    "author": "Éomer",
+    "content": "You would die before your stroke fell!"
+  },
+  {
+    "author": "Faramir",
+    "content": "I would not take this thing if it lay by the roadside."
+  },
+  {
+    "author": "Lando",
+    "content": "You truly belong with us among the clouds."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I have a very bad feeling about this."
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "You like pain?"
+  },
+  {
+    "author": "Saw Gerrera",
+    "content": "We're the Rhydo, Kid. We're the Fuel…"
+  },
+  {
+    "author": "Gollum",
+    "content": "My precious."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "My vessel. My crew."
+  },
+  {
+    "author": "Emperor Palpatine",
+    "content": "Do it."
+  },
+  {
+    "author": "Yoda",
+    "content": "Do or do not. There is no try."
+  },
+  {
+    "author": "Gollum",
+    "content": "We swears to serve the master of the precious."
+  },
+  {
+    "author": "Arwen",
+    "content": "I choose a mortal life."
+  },
+  {
+    "author": "Frodo",
+    "content": "The Ring is mine."
+  },
+  {
+    "author": "The Architect",
+    "content": "Hope is the quintessential human delusion."
+  },
+  {
+    "author": "Padmé Amidala",
+    "content": "So this is how liberty dies."
+  },
+  {
+    "author": "Smeagol",
+    "content": "They don’t see us. They don’t know."
+  },
+  {
+    "author": "Jerome Morrow",
+    "content": "I was never more perfect than when I was with you."
+  },
+  {
+    "author": "Howard Wolowitz",
+    "content": "I may not be a superhero, but I'm something a scientist will never be: I'm a engineer."
+  },
+  {
+    "author": "Merry",
+    "content": "Rohan had need of you."
+  },
+  {
+    "author": "Trinity",
+    "content": "Touch me and that hand will never touch anything again."
+  },
+  {
+    "author": "Théoden",
+    "content": "Forth Eorlingas!"
+  },
+  {
+    "author": "Palpatine",
+    "content": "I am all the Sith."
+  },
+  {
+    "author": "Rey",
+    "content": "I’m all the Jedi."
+  },
+  {
+    "author": "Éowyn",
+    "content": "I am no man!"
+  },
+  {
+    "author": "Bernadette Rostenkowski",
+    "content": "I have a PhD and I'm a published scientist, but sure, I'm just a waitress."
+  },
+  {
+    "author": "Penny",
+    "content": "Oh honey, what are you talking about?"
+  },
+  {
+    "author": "Stuart Bloom",
+    "content": "It's not a great business model, but it's my business model."
+  },
+  {
+    "author": "Leonard Hofstadter",
+    "content": "That's my spot."
+  },
+  {
+    "author": "Frodo",
+    "content": "I will take the Ring."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "Impressive. Most impressive."
+  },
+  {
+    "author": "Will Turner",
+    "content": "Keep a sharp eye."
+  },
+  {
+    "author": "Legolas",
+    "content": "A shadow and a threat has been growing in my mind."
+  },
+  {
+    "author": "Amy Farrah Fowler",
+    "content": "That is no reason to cry. One cries because one is sad. For example, I cry because others are stupid, and that makes me sad."
+  },
+  {
+    "author": "Tank",
+    "content": "He’s gonna pop!"
+  },
+  {
+    "author": "Legolas",
+    "content": "How about side by side with a friend?"
+  },
+  {
+    "author": "Aragorn",
+    "content": "I would have gone with you to the end."
+  },
+  {
+    "author": "Han Solo",
+    "content": "That’s not how the Force works!"
+  },
+  {
+    "author": "Darth Vader",
+    "content": "This will be a day long remembered."
+  },
+  {
+    "author": "Han Solo",
+    "content": "I know."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Bring me that horizon."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "The Force is strong with this one."
+  },
+  {
+    "author": "Cassian Andor",
+    "content": "You're coming home to yourself. You've become more than your fear. Let that protect you."
+  },
+  {
+    "author": "Bail Organa",
+    "content": "I will send for the Jedi."
+  },
+  {
+    "author": "Will Turner",
+    "content": "I made my choice."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "Mr. Anderson."
+  },
+  {
+    "author": "Palpatine",
+    "content": "The dark side of the Force is a pathway to many abilities."
+  },
+  {
+    "author": "Yoda",
+    "content": "Luminous beings are we."
+  },
+  {
+    "author": "Elizabeth Swann",
+    "content": "You lied to me by telling the truth."
+  },
+  {
+    "author": "Agent Smith",
+    "content": "It’s the smell!"
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "I am a horny engineer, I never joke about math or sex."
+  },
+  {
+    "author": "Pippin",
+    "content": "The closer we are to danger, the farther we are from harm!"
+  },
+  {
+    "author": "Will Turner",
+    "content": "I practice three hours a day."
+  },
+  {
+    "author": "Howard Wolowitz",
+    "content": "Do you know what my favorite part of a woman is? The personality."
+  },
+  {
+    "author": "Morpheus",
+    "content": "I can only show you the door."
+  },
+  {
+    "author": "Boromir",
+    "content": "One does not simply walk into Mordor."
+  },
+  {
+    "author": "Vel Sartha",
+    "content": "This is on you now. This is like skin. You're taking her with you wherever you go for the rest of your useless life."
+  },
+  {
+    "author": "Gollum",
+    "content": "Sneaky little hobbitses."
+  },
+  {
+    "author": "Mace Windu",
+    "content": "This party’s over."
+  },
+  {
+    "author": "Howard Wolowitz",
+    "content": "I don't need a ride, I need a date. And not the fruit."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "I'm a physicist, not a ringbearer."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "May the Force be with you."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You may not survive to pass this way again."
+  },
+  {
+    "author": "Aragorn",
+    "content": "I do not fear death."
+  },
+  {
+    "author": "Darth Vader",
+    "content": "I am your father."
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Close your eyes and pretend it’s all a bad dream."
+  },
+  {
+    "author": "Obi-Wan Kenobi",
+    "content": "You were the chosen one!"
+  },
+  {
+    "author": "Sam",
+    "content": "I made a promise!"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "I’m dishonest, and a dishonest man you can always trust."
+  },
+  {
+    "author": "Gandalf",
+    "content": "I will not say do not weep."
+  },
+  {
+    "author": "Neo",
+    "content": "Guns. Lots of guns."
+  },
+  {
+    "author": "Anakin Skywalker",
+    "content": "I don’t like sand."
+  },
+  {
+    "author": "Poe Dameron",
+    "content": "We’re gonna do this."
+  },
+  {
+    "author": "Anakin Skywalker",
+    "content": "You underestimate my power!"
+  },
+  {
+    "author": "Jack Sparrow",
+    "content": "Usually it’s both."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "You're in my spot."
+  },
+  {
+    "author": "Pippin",
+    "content": "What about elevenses?"
+  },
+  {
+    "author": "Morpheus",
+    "content": "Fate, it seems, is not without a sense of irony."
+  },
+  {
+    "author": "Yoda",
+    "content": "Wars not make one great."
+  },
+  {
+    "author": "Perrin Fertha",
+    "content": "Joy will not announce its arrival."
+  },
+  {
+    "author": "Gandalf",
+    "content": "So do all who live to see such times."
+  },
+  {
+    "author": "Yoda",
+    "content": "Much to learn you still have."
+  },
+  {
+    "author": "Morpheus",
+    "content": "What is real?"
+  },
+  {
+    "author": "Chewbacca",
+    "content": "*roars*."
+  },
+  {
+    "author": "Will Turner",
+    "content": "This is either madness or brilliance."
+  },
+  {
+    "author": "Dr. Lamar",
+    "content": "They’ve got you looking so hard for any flaw that after a while that's all you see."
+  },
+  {
+    "author": "Barbossa",
+    "content": "The code is more what you’d call guidelines."
+  },
+  {
+    "author": "Barbossa",
+    "content": "You’re off the edge of the map."
+  },
+  {
+    "author": "Neo",
+    "content": "I’m going to kill you."
+  },
+  {
+    "author": "Sam",
+    "content": "There’s some good in this world, and it’s worth fighting for."
+  },
+  {
+    "author": "Luke Skywalker",
+    "content": "I won’t fail you."
+  },
+  {
+    "author": "Galadriel",
+    "content": "The quest stands upon the edge of a knife."
+  },
+  {
+    "author": "Finn",
+    "content": "Rebel scum."
+  },
+  {
+    "author": "Sheldon Cooper",
+    "content": "That's my spot."
+  },
+  {
+    "author": "Irene Cassini",
+    "content": "You have a heart of gold."
+  },
+  {
+    "author": "Aragorn",
+    "content": "Ride out with me."
+  },
+  {
+    "author": "Obi-Wan",
+    "content": "So uncivilized."
+  },
+  {
+    "author": "Luthen Rael",
+    "content": "I Burn My Life to Make a Sunrise That I Know I'll Never See."
+  }
+]
